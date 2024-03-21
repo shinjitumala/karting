@@ -1,5 +1,11 @@
 English Translation after Japanese
 ---
+# Demo
+[大井松田カートランド 3 2024-03-20](https://www.youtube.com/watch?v=Ifm6Hepr4kI)
+[大井松田カートランド 2 2024-02-03](https://www.youtube.com/watch?v=XQEPwYTAlI8)
+
+[Playlist](https://youtube.com/playlist?list=PLBppgxAtBIa8CC0-3esZiFksGd_VQhnwT&si=n6IJ0w7EguSY60cl)
+---
 # [大井松田カートランド](https://www.kartland.co.jp/)
 
 概要: かかるお金は安くないので、ご了承ください。第一回の実施時は、移動、午前レンタル、グループパックの全てで ¥26,000 ぐらいはかかりました。なお、移動手段の変更により、移動コストは抑えられる可能性あり。
