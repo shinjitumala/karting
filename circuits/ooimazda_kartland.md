@@ -1,14 +1,21 @@
 English Translation after Japanese
 ---
 # Demo
-[大井松田カートランド 3 2024-03-20](https://www.youtube.com/watch?v=Ifm6Hepr4kI)
-[大井松田カートランド 2 2024-02-03](https://www.youtube.com/watch?v=XQEPwYTAlI8)
+- [Playlist](https://youtube.com/playlist?list=PLBppgxAtBIa8CC0-3esZiFksGd_VQhnwT&si=n6IJ0w7EguSY60cl)
+    - [大井松田カートランド 3 2024-03-20](https://www.youtube.com/watch?v=Ifm6Hepr4kI)
+    - [大井松田カートランド 2 2024-02-03](https://www.youtube.com/watch?v=XQEPwYTAlI8)
 
-[Playlist](https://youtube.com/playlist?list=PLBppgxAtBIa8CC0-3esZiFksGd_VQhnwT&si=n6IJ0w7EguSY60cl)
 ---
 # [大井松田カートランド](https://www.kartland.co.jp/)
 
-概要: かかるお金は安くないので、ご了承ください。第一回の実施時は、移動、午前レンタル、グループパックの全てで ¥26,000 ぐらいはかかりました。なお、移動手段の変更により、移動コストは抑えられる可能性あり。
+概要: レース用のカートで遊びます。
+
+注意: かかるお金は安くないので、ご了承ください。
+
+## 料金参考
+- 2024-01-08 (割引あり): 午前乗り放題 (¥8,000) + レンタル用品 (¥2,750) + 移動費 (車, 高速費, ¥12,000 / 2 名)
+- 2024-02-03 (通常): 午前乗り放題 (¥10,000) + レンタル用品 (¥2,750) + グループレース (¥7,700) + 移動費 (車, 高速費, ¥12,000 / 4 名)
+- 2024-03-20 (割引あり): 午前乗り放題 (¥8,000) + レンタル用品 (¥2,750) + 移動費 (車, ¥7,000 / 2 名 + 二宮駅までの電車代)
 
 ## 場所
 神奈川県小田原あたり
@@ -72,10 +79,16 @@ English Translation after Japanese
 - これまでの開催で特にけが等はありませんが、言うまでもなく、ケガしても訴えられないぞ、という紙にサインさせられます点、予めご了承ください。なお、経験者と初心者を分けるなどの対策をしてくれるいいサーキットなので、あんまりないとは思います
 
 ---
-
 # [Ooi Matsuda Kartland](https://www.kartland.co.jp/)
 
-Overview: Please note that the expenses can be high. During the first implementation, it cost about ¥26,000 for transportation, morning rental, and group packs. Note that transportation costs may be reduced due to changes in transportation methods.
+Overview: Play with racing carts.
+
+Note: Please be aware that the expenses are not cheap.
+
+## Price Reference
+- 2024-01-08 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, highway toll, ¥12,000 / 2 persons)
+- 2024-02-03 (normal): All-morning ride (¥10,000) + Rental items (¥2,750) + Group race (¥7,700) + Transportation (car, highway toll, ¥12,000 / 4 persons)
+- 2024-03-20 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, ¥7,000 / 2 persons + train fare to Ninomiya Station)
 
 ## Location
 Around Odawara, Kanagawa Prefecture
@@ -115,7 +128,7 @@ Share Car 00:20 ¥6,650 (per person)
 - Not listed on the website: On customer appreciation days, N32/T4 has been reduced to ¥8,000.
 
 #### Group Packs
-Practice 7 minutes, Qualifying 7 minutes, Final 10 Laps, Award Ceremony
+Practice 7 minutes, Qualifying 7 minutes, Final 10 Lap, Award Ceremony
 
 ¥7,700 per person (¥6,600 on weekdays)
 
@@ -137,3 +150,4 @@ Reservation required, training, ¥1,650, 2 photos of 4x3 cm required (temporary 
 ### Notes
 - Dirt may stick to shoes when pressing the pedals, so please wear shoes that can get dirty.
 - While there have been no particular injuries during past events, it goes without saying that you will be asked to sign a paper stating that you cannot sue for injuries. However, it's a good circuit that takes measures such as separating experienced drivers from beginners, so there aren't many incidents like that.
+```
