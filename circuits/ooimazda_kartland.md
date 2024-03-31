@@ -16,28 +16,27 @@ English Translation after Japanese
 - 2024-01-08 (割引あり): 午前乗り放題 (¥8,000) + レンタル用品 (¥2,750) + 移動費 (車, 高速費, ¥12,000 / 2 名)
 - 2024-02-03 (通常): 午前乗り放題 (¥10,000) + レンタル用品 (¥2,750) + グループレース (¥7,700) + 移動費 (車, 高速費, ¥12,000 / 4 名)
 - 2024-03-20 (割引あり): 午前乗り放題 (¥8,000) + レンタル用品 (¥2,750) + 移動費 (車, ¥7,000 / 2 名 + 二宮駅までの電車代)
+- 2024-03-30 (通常): 一日乗り放題 (¥20,000) (レンタル用品なし) + 移動費 (タクシー, ¥3,800 x 2 + 二宮駅までの電車代)
 
 ## 場所
 神奈川県小田原あたり
 
 ## アクセス
 ### 車
-大井町駅 or 横浜駅 ->
+自宅 - 電車 (0) -> 大井町駅 or 横浜駅 - 車 (1) -> 目的地
 
-シェアカー 01:30 ¥12,400 (/ 人数) (= カーシェア + 高速料)
-
--> 大井松田カートランド
+- (0) ex) 青物横丁駅から横浜駅の場合、00:20 ¥350
+- (1) シェアカー 01:30 ¥12,400 (/ 人数) (= カーシェア + 高速料)
 
 ### 電車
-自宅 ->
+自宅 - 電車 (0) -> 二宮駅 - 車 (1) -> 目的地
 
-電車 (青物横丁駅からの場合、01:15 ¥1,300)
+- (0) 青物横丁駅からの場合、01:15 ¥1,300)
+- (1)
+    - a: シェアカー 00:20 ¥6,650 (/ 人数)
+    - b: タクシー 00:20 ¥8,000 (/ 人数)
 
--> 二宮駅 ->
-
-シェアカー 00:20 ¥6,650 (/ 人数)
-
-- メモ: 以前にタクシーを検討した。問題点: タクシーを帰り呼べるのか不明, 片道 ¥4,000 程度と高い
+- タクシーの場合、帰りはタクシーを呼べるエリアまで 10 分程度歩きます。
 
 ## サーキット
 ### 料金
@@ -49,6 +48,7 @@ English Translation after Japanese
 
 - 午前午後などの時間はその日のサーキットスケジュールに依存。一般的には、午前は 09:00-11:00 か 09:00-11:30
 - 走る人が多い場合、クラス分け (一般に 20 分交代) 走行となるため、フルにはしれない場合もある
+    - 午後は込みやすく、3 クラス分けとなった日もある (2024-03-30)
 - 一台のマシンをシェア可能。ただし、¥2,500 / サブドライバ
 - 要予約 (前日)
 
@@ -89,28 +89,27 @@ Note: Please be aware that the expenses are not cheap.
 - 2024-01-08 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, highway toll, ¥12,000 / 2 persons)
 - 2024-02-03 (normal): All-morning ride (¥10,000) + Rental items (¥2,750) + Group race (¥7,700) + Transportation (car, highway toll, ¥12,000 / 4 persons)
 - 2024-03-20 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, ¥7,000 / 2 persons + train fare to Ninomiya Station)
+- 2024-03-30 (normal): Full-day ride (¥20,000) (excluding rental items) + Transportation (taxi, ¥3,800 x 2 + train fare to Ninomiya Station)
 
 ## Location
 Around Odawara, Kanagawa Prefecture
 
 ## Access
 ### By Car
-Oimachi Station or Yokohama Station ->
+Home - Train (0) -> Oimachi Station or Yokohama Station - Car (1) -> Destination
 
-Share Car 01:30 ¥12,400 (per person) (= Car share + highway toll)
-
--> Ooi Matsuda Kartland
+- (0) ex) From Aomono-yokocho Station to Yokohama Station, 00:20 ¥350
+- (1) Share Car 01:30 ¥12,400 (per person) (= Car share + highway toll)
 
 ### By Train
-Home ->
+Home - Train (0) -> Ninomiya Station - Car (1) -> Destination
 
-Train (if from Aomono-yokocho Station, 01:15 ¥1,300)
+- (0) If from Aomono-yokocho Station, 01:15 ¥1,300)
+- (1)
+    - a: Share Car 00:20 ¥6,650 (per person)
+    - b: Taxi 00:20 ¥8,000 (per person)
 
--> Ninomiya Station ->
-
-Share Car 00:20 ¥6,650 (per person)
-
-- Note: Taxi was considered before. Issues: Uncertainty about calling a taxi for return, and it costs around ¥4,000 one way.
+- In the case of a taxi, you will walk for about 10 minutes to an area where you can call a taxi for the return trip.
 
 ## Circuit
 ### Fees
@@ -122,6 +121,7 @@ Share Car 00:20 ¥6,650 (per person)
 
 - Morning and afternoon hours depend on the circuit schedule for the day. Generally, mornings are from 09:00-11:00 or 09:00-11:30.
 - If there are many drivers, there may be class divisions (usually 20-minute rotations), so you may not be able to drive full time.
+    - Afternoons are likely to be crowded, and there have been days with 3 class divisions (2024-03-30).
 - One machine can be shared. However, ¥2,500 per sub-driver.
 - Reservation required (the day before)
 
@@ -150,4 +150,3 @@ Reservation required, training, ¥1,650, 2 photos of 4x3 cm required (temporary 
 ### Notes
 - Dirt may stick to shoes when pressing the pedals, so please wear shoes that can get dirty.
 - While there have been no particular injuries during past events, it goes without saying that you will be asked to sign a paper stating that you cannot sue for injuries. However, it's a good circuit that takes measures such as separating experienced drivers from beginners, so there aren't many incidents like that.
-```
