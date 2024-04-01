@@ -54,6 +54,13 @@ English Translation after Japanese
 
 - サイトに未記載: お客様感謝デーの場合、N32/T4 は ¥8,000 になった実績あり
 
+##### クラス分けについて (事例)
+込み具合によっては、乗れる時間がかなり変わります。経験上、午後は午前より込む傾向にあります。
+また、午前に他の初心者グループがいることがあまりないため、ビギナークラスでみんな一緒になる可能性が高くなります。
+
+- 午前 09:00-11:30 2 クラス (ビギナー、エキスパート) の場合、11:10 まで 20 分交代、その後 10 分交代、実質 01:20 分程度乗れる。
+- 午後 13:00-16:30 3 クラス (ビギナー、ジュニア、エキスパート) の場合、16:00 まで 20 分交代、その後 10 分交代、実質 01:10 分程度乗れる。
+
 #### グループパック
 練習 7 分, 予選 7 分, 決勝 10 Lap, 表彰式
 
@@ -81,14 +88,14 @@ English Translation after Japanese
 ---
 # [Ooi Matsuda Kartland](https://www.kartland.co.jp/)
 
-Overview: Play with racing carts.
+Overview: Enjoy karting for racing.
 
 Note: Please be aware that the expenses are not cheap.
 
 ## Price Reference
-- 2024-01-08 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, highway toll, ¥12,000 / 2 persons)
-- 2024-02-03 (normal): All-morning ride (¥10,000) + Rental items (¥2,750) + Group race (¥7,700) + Transportation (car, highway toll, ¥12,000 / 4 persons)
-- 2024-03-20 (with discount): All-morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, ¥7,000 / 2 persons + train fare to Ninomiya Station)
+- 2024-01-08 (with discount): Unlimited morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, highway toll, ¥12,000 / 2 persons)
+- 2024-02-03 (normal): Unlimited morning ride (¥10,000) + Rental items (¥2,750) + Group race (¥7,700) + Transportation (car, highway toll, ¥12,000 / 4 persons)
+- 2024-03-20 (with discount): Unlimited morning ride (¥8,000) + Rental items (¥2,750) + Transportation (car, ¥7,000 / 2 persons + train fare to Ninomiya Station)
 - 2024-03-30 (normal): Full-day ride (¥20,000) (excluding rental items) + Transportation (taxi, ¥3,800 x 2 + train fare to Ninomiya Station)
 
 ## Location
@@ -126,6 +133,13 @@ Home - Train (0) -> Ninomiya Station - Car (1) -> Destination
 - Reservation required (the day before)
 
 - Not listed on the website: On customer appreciation days, N32/T4 has been reduced to ¥8,000.
+
+##### Class Divisions (Examples)
+Depending on the crowdedness, the time available for riding can vary significantly. Based on experience, afternoons tend to be busier than mornings.
+Additionally, there are rarely other beginner groups in the morning, so there is a high chance of everyone being together in the beginner class.
+
+- Morning 09:00-11:30 with 2 classes (Beginner, Expert), 20-minute rotations until 11:10, then 10-minute rotations, effectively about 01:20 minutes of riding.
+- Afternoon 13:00-16:30 with 3 classes (Beginner, Junior, Expert), 20-minute rotations until 16:00, then 10-minute rotations, effectively about 01:10 minutes of riding.
 
 #### Group Packs
 Practice 7 minutes, Qualifying 7 minutes, Final 10 Lap, Award Ceremony
