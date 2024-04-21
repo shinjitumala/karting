@@ -1,4 +1,4 @@
-[日本語版はこちらをクリック](circuits/ooimazda_kartland_jp.md)
+[日本語版はこちらをクリック](ooimazda_kartland_jp.md)
 
 # Image Videos
 - [Racing - YouTube Playlist](https://youtube.com/playlist?list=PLBppgxAtBIa8CC0-3esZiFksGd_VQhnwT&si=n6IJ0w7EguSY60cl)

@@ -1,4 +1,4 @@
-[For the English version, click here](circuits/ooimazda_kartland_en.md)
+[For the English version, click here](ooimazda_kartland_en.md)
 
 # イメージ動画
 - [Racing - YouTube プレイリスト](https://youtube.com/playlist?list=PLBppgxAtBIa8CC0-3esZiFksGd_VQhnwT&si=n6IJ0w7EguSY60cl)
