@@ -1,4 +1,4 @@
-# レージングカート情報
+# レーシングカート情報
 ## サーキット一覧
 [大井松田カートランド](circuits/ooimazda_kartland.md)
 
@@ -7,9 +7,9 @@
 
 ---
 
-# Raging Kart Information
+# Racing Kart Information
 ## Circuit List
-[Ooi Mazda Kartland](circuits/ooimazda_kartland.md)
+[Oimatsuda Kartland](circuits/ooimazda_kartland.md)
 
 ## Reference Information
-[Preliminary Investigation (Unverified Information)](research.md)
+[Preliminary Research (Unverified Information)](research.md)
